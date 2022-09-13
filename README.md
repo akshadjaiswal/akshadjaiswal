@@ -1,12 +1,18 @@
-- 👋 Hi, I’m Akshad Jaiswal
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning Javascript, SpringBoot, React, Java.
-- 💞️ I’m currently working on Portfolio Website
+
+<h1 align="center">Hello , Akshad here✌️</h1>
+
+
+
+- 💻 Currently working on frontend projects.
+- 👨‍ I’m interested in full stack development.
+- 😊 I’m currently learning Javascript, SpringBoot,SQL  .
+- ✌️ All my project,s is available here- https://akshadjaiswal-website.netlify.app/
 - 📫 How to reach me- akshadsantoshjaiswal@gmail.com
 
 Connect with me:-
-LinkedIn -https://www.linkedin.com/in/akshadsantoshjaiswal
-Twitter -https://twitter.com/akshad_999
+- LinkedIn - https://www.linkedin.com/in/akshadsantoshjaiswal
+- Twitter - https://twitter.com/akshad_999
+
 
 <!---
 akshadjaiswal/akshadjaiswal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
