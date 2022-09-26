@@ -3,7 +3,7 @@
 
 
 
-- 💻 Currently working on frontend projects.
+- 💻 Currently working on backend projects.
 - 👨‍ I’m interested in full stack development.
 - 😊 I’m currently learning Javascript, SpringBoot,SQL  .
 - ✌️ All my project,s are available here- https://akshadjaiswal-website.netlify.app/
