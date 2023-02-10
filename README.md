@@ -7,7 +7,7 @@ Web Developer and Aspiring Full Stack Development
 
 I am student pursuing BCA, learning and aspiring full stack development.
 
-* 🖥️  See my portfolio at [MyPortfolio](http://https://akshadjaiswal-website.netlify.app/)
+* 🖥️  See my portfolio at [MyPortfolio](https://akshadjaiswal-website.netlify.app/)
 * ✉️  You can contact me at [akshadsantoshjaiswal1119@gmail.com](mailto:akshadsantoshjaiswal1119@gmail.com)
 * 🧠  I'm learning MySQL database.
 
