@@ -1,5 +1,5 @@
 # 💫 About Me: 
-## Hello 🧑‍💻 , Akshad Jaiswal here.
+## Hello 🧑‍💻 , Akshad Jaiswal here🙋.
 🔭 I’m currently working on Problem solving<br>👯 I’m looking to collaborate on java<br>🌱 I’m currently learning Data Structures and Algorithms.
 
 
@@ -26,4 +26,3 @@
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/akshad) 
 
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
