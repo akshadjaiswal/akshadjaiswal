@@ -1,5 +1,5 @@
 # 💫 About Me: 
-## Hello 🧑‍💻 , Akshad Jaiswal here🙋.
+## Hello 🧑‍💻, Akshad Jaiswal here🙋.
 🔭 I’m currently working on Problem solving<br>👯 I’m looking to collaborate on java<br>🌱 I’m currently learning Data Structures and Algorithms.
 
 
