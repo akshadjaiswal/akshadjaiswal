@@ -1,6 +1,6 @@
 # 💫 About Me:
 ## Hello 🧑‍💻 Akshad Jaiswal here🙋
-🔭 I’m currently working on Javascript and React.js.<br>🏫 I’m currently learning React js by doing Project.<br>💻 All of my projects are available at [My Portfolio](https://akshadjaiswal-website.netlify.app/)<br>🤝🏻 I’m looking to collaborate on Web development projects.<br>🌱 I’m working on my React projects.<br>💻 Exploring Full Stack Development development.
+🔭 I’m currently working on Javascript and React.js.<br>🏫 I’m currently learning React js by creating projects.<br>💻 All of my projects are available at [My Portfolio](https://akshadjaiswal-website.netlify.app/)<br>🤝🏻 I’m looking to collaborate on Web development projects.<br>🌱 I’m working on my React projects.<br>💻 Exploring Full Stack Development development.
 
 
 ## 🌐 Socials:
