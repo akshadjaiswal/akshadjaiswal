@@ -15,9 +15,9 @@
 name: "Akshad Jaiswal"
 location: "India 🇮🇳 Pune"
 education:
-  degree: "Master's in Computer Applications"
+  degree: "Master's of Computer Applications"
   university: "Savitribai Phule Pune University, Public university in Pune"
-  status:"Pursing"
+  status:"Pursuing"
 past_experiences:
   - role: "Full stack developer",
   - role: "React.js Intern", "Celebal Technologies"
