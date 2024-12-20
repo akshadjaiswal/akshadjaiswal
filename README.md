@@ -8,9 +8,15 @@
 #
   
 </em></p>
+## 🌟 About Me  
 
-🔭 I’m currently working on DevTinder web app.<br>🏫 I’m currently learning about backend development and Nodejs.<br>💻 All of my projects are available at [My Portfolio](https://akshadjaiswal-website.netlify.app/)<br>🤝🏻 I’m looking to collaborate on Web development projects.<br>🌱 I’m working on my React projects.<br>💻 Exploring Full Stack Development.
+- 🔭 I’m currently working on [**HireMint**](https://github.com/akshadjaiswal/HireMint) — a MERN Stack job portal application.  
+- 🏫 Exploring the depths of **Backend Development** and mastering **Node.js**.  
+- 💻 Check out my projects and journey on [**My Portfolio**](https://akshadjaiswal-website.netlify.app/).  
+- 🤝🏻 Excited to collaborate on **Web Development Projects** and bring ideas to life.  
+- 🌱 Continuously learning and building creative **React Projects** to level up my skills.  
 
+---
 ``` yaml
 name: "Akshad Jaiswal"
 location: "India 🇮🇳 Pune"
@@ -19,7 +25,7 @@ education:
   university: "Savitribai Phule Pune University, Public university in Pune"
   status:"Pursuing"
 past_experiences:
-  - role: "Full stack developer",
+  - role: "Full Stack developer",
   - role: "React.js Intern", "Celebal Technologies"
 currently_learning:
   - "Backend Development"
@@ -61,7 +67,10 @@ interested_in:
 </div>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</div>
+
 
 ## 
 [![Akshad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=akshadjaiswal&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
