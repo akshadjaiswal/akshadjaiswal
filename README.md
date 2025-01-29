@@ -10,7 +10,7 @@
 </em></p>
 ## 🌟 About Me  
 
-- 🔭 I’m currently working on [**HireMint**](https://github.com/akshadjaiswal/HireMint) — a MERN Stack job portal application.  
+- 🔭 I’m currently working on [**DevTinder**](https://github.com/akshadjaiswal/devTinder-backend) — a MERN Stack job portal application.  
 - 🏫 Exploring the depths of **Backend Development** and mastering **Node.js**.  
 - 💻 Check out my projects and journey on [**My Portfolio**](https://akshadjaiswal-website.netlify.app/).  
 - 🤝🏻 Excited to collaborate on **MERN Projects** and bring ideas to life.  
