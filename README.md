@@ -10,7 +10,7 @@
 </em></p>
 ## 🌟 About Me  
 
-- 🔭 I’m currently working on [**DevTinder**](https://github.com/akshadjaiswal/devTinder-backend) — a MERN Stack job portal application.  
+- 🔭 I’m currently working on frontend of [**DevTinder**](https://github.com/akshadjaiswal/devTinder-frontend) — a MERN Stack application to connect with developers.  
 - 🏫 Exploring the depths of **Backend Development** and mastering **Node.js**.  
 - 💻 Check out my projects and journey on [**My Portfolio**](https://akshadjaiswal-website.netlify.app/).  
 - 🤝🏻 Excited to collaborate on **MERN Projects** and bring ideas to life.  
@@ -24,8 +24,11 @@ education:
   degree: "Master's of Computer Applications"
   university: "Savitribai Phule Pune University, Public university in Pune"
   status:"Pursuing"
+employment :
+  - Wroking : Tacticone
+  - Role : Full Stack developer
+  - Location : Pune
 past_experiences:
-  - role: "Full Stack developer",
   - role: "React.js Intern", "Celebal Technologies"
 currently_learning:
   - "Backend Development"
