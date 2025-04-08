@@ -10,7 +10,7 @@
 </em></p>
 ## 🌟 About Me  
 
-- 🔭 I’m currently working on frontend of [**MintFlix**](https://github.com/akshadjaiswal/MintFlix) — a MERN Stack application to connect with developers.  
+- 🔭 I’m currently working on frontend of [**MintFlix**](https://github.com/akshadjaiswal/MintFlix) — Reactjs application to search movies and its suggestions.  
 - 🏫 Exploring the depths of **Backend Development** and mastering **Node.js**.  
 - 💻 Check out my projects and journey on [**My Portfolio**](https://akshadjaiswal-website.netlify.app/).  
 - 🤝🏻 Excited to collaborate on **MERN Projects** and bring ideas to life.  
