@@ -20,6 +20,7 @@
 - typescript · javascript · next.js · react · python · fastapi · node.js · crew ai · langchain · llm models · mongo db · supabase · express · postgresql
 
 ## Fresh builds
+- **[Dev Wrapped](https://github.com/akshadjaiswal/dev-wrapped)**: DevWrapped creates stunning, personalized year-in-review experiences for developers by analyzing their GitHub activity. Zero friction: just enter username, pick a theme, get your wrap.
 - **[Excuse Generator Pro](https://github.com/akshadjaiswal/excuse-generator-pro)**: AI-powered excuse creator that stays context-aware so outputs feel human. Tweak tone and scenario to get believable, playful, or absurd excuses that don’t read like a bot.
 - **[Glide Data Grid Starter](https://github.com/akshadjaiswal/glide-data-grid)**: Brownfield-friendly sandbox for Glide Data Grid. Comes with grouped headers, frozen columns, custom cells, and editing callbacks so you can test safely before dropping into a legacy app.
 - **[Explain Like I’m 5](https://github.com/akshadjaiswal/explain-like-i-m-5)**: Generates four levels of explanations (beginner → expert) for any topic. Compare side-by-side to pick the right depth or share a link with teammates.
