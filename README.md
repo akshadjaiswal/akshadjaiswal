@@ -20,7 +20,8 @@
 - typescript · javascript · next.js · react · python · fastapi · node.js · crew ai · langchain · llm models · mongo db · supabase · express · postgresql
 
 ## Fresh builds
-- **[Remind-well](https://github.com/akshadjaiswal/remind-well)**: RemindWell is an AI-powered reminder and habit tracking application that helps you build healthier routines through smart, contextual notifications delivered via Telegram or email. Perfect for staying hydrated, taking breaks, stretching, and maintaining wellness habits.
+- **[Git History Visualizer](https://github.com/akshadjaiswal/git-history-visualizer)**: Git History Visualizer is a Next.js web application that transforms GitHub repositories into beautiful, insightful dashboards. Visualize commit patterns, contributor activity, and repository metrics through an elegant pastel-colored interface.
+- **[Remind well](https://github.com/akshadjaiswal/remind-well)**: RemindWell is an AI-powered reminder and habit tracking application that helps you build healthier routines through smart, contextual notifications delivered via Telegram or email. Perfect for staying hydrated, taking breaks, stretching, and maintaining wellness habits.
 - **[Dev Wrapped](https://github.com/akshadjaiswal/dev-wrapped)**: DevWrapped creates stunning, personalized year-in-review experiences for developers by analyzing their GitHub activity. Zero friction: just enter username, pick a theme, get your wrap.
 - **[Excuse Generator Pro](https://github.com/akshadjaiswal/excuse-generator-pro)**: AI-powered excuse creator that stays context-aware so outputs feel human. Tweak tone and scenario to get believable, playful, or absurd excuses that don’t read like a bot.
 - **[Glide Data Grid Starter](https://github.com/akshadjaiswal/glide-data-grid)**: Brownfield-friendly sandbox for Glide Data Grid. Comes with grouped headers, frozen columns, custom cells, and editing callbacks so you can test safely before dropping into a legacy app.
