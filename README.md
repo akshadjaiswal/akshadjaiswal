@@ -29,7 +29,8 @@
 - **[Devstart CLI](https://github.com/akshadjaiswal/devstart)**: Scaffold production-ready Next.js projects in seconds: linting, testing, env wiring, and your preferred stack choices baked in from the start.
 - **[Side Quest HQ](https://github.com/akshadjaiswal/side-quest-hq)**: A nostalgic hub to catalog every side project: active, paused, shipped, or abandoned, so you can see your creative trail and patterns over time.
 - **[Hot Take Arena](https://github.com/akshadjaiswal/hot-takes-arena)**: Anonymous, mobile-first arena for controversial opinions. Real-time vote percentages show how divisive each take really is.
-
+- **[Letter of Love](letter-of-love.vercel.app)**: Next.js web application where users create beautiful 3D virtual flower bouquets with heartfelt messages and share them via unique links. Recipients experience an immersive bloom animation and can interact with the 3D bouquet. Perfect for Valentine's Day, but designed for year-round gifting occasions.
+  
 More useful projects live in the repos tab. Feel free to explore.
 
 ## Building & shipping
