@@ -17,7 +17,7 @@
 
 ### About
 
-Full-stack engineer who enjoys working end-to-end — product discovery, fast prototypes, scalable backends, and polished UX.
+Full-stack engineer who enjoys working end-to-end product discovery, fast prototypes, scalable backends, and polished UX.
 Founding SDE at a startup while freelancing, so I juggle delivery speed, reliability, and cost every day.
 I keep things simple: ship small, learn fast, and iterate with real feedback.
 Check out my work at <a href="https://akshad-work.vercel.app/" target="_blank" rel="noopener noreferrer">akshad-work.vercel.app</a>
@@ -39,7 +39,7 @@ Check out my work at <a href="https://akshad-work.vercel.app/" target="_blank" r
   </tr>
   <tr>
     <td><a href="https://github.com/akshadjaiswal/git-history-visualizer" target="_blank" rel="noopener noreferrer"><b>Git History Visualizer</b></a></td>
-    <td>Transforms GitHub repos into beautiful dashboards — commit patterns, contributor activity, and repo metrics.</td>
+    <td>Transforms GitHub repos into beautiful dashboards commit patterns, contributor activity, and repo metrics.</td>
   </tr>
   <tr>
     <td><a href="https://github.com/akshadjaiswal/remind-well" target="_blank" rel="noopener noreferrer"><b>Remind Well</b></a></td>
@@ -51,7 +51,7 @@ Check out my work at <a href="https://akshad-work.vercel.app/" target="_blank" r
   </tr>
   <tr>
     <td><a href="https://github.com/akshadjaiswal/excuse-generator-pro" target="_blank" rel="noopener noreferrer"><b>Excuse Generator Pro</b></a></td>
-    <td>Context-aware AI excuse creator. Tweak tone and scenario — believable, playful, or absurd.</td>
+    <td>Context-aware AI excuse creator. Tweak tone and scenario, believable, playful or absurd.</td>
   </tr>
   <tr>
     <td><a href="https://github.com/akshadjaiswal/glide-data-grid" target="_blank" rel="noopener noreferrer"><b>Glide Data Grid Starter</b></a></td>
@@ -63,11 +63,11 @@ Check out my work at <a href="https://akshad-work.vercel.app/" target="_blank" r
   </tr>
   <tr>
     <td><a href="https://github.com/akshadjaiswal/devstart" target="_blank" rel="noopener noreferrer"><b>Devstart CLI</b></a></td>
-    <td>Scaffold production-ready Next.js projects in seconds — linting, testing, env wiring baked in.</td>
+    <td>Scaffold production-ready Next.js projects in seconds: linting, testing, env wiring baked in.</td>
   </tr>
   <tr>
     <td><a href="https://github.com/akshadjaiswal/side-quest-hq" target="_blank" rel="noopener noreferrer"><b>Side Quest HQ</b></a></td>
-    <td>Catalog every side project — active, paused, shipped, or abandoned — and see your creative trail.</td>
+    <td>Catalog every side project — active, paused, shipped, or abandoned and see your creative trail.</td>
   </tr>
   <tr>
     <td><a href="https://github.com/akshadjaiswal/hot-takes-arena" target="_blank" rel="noopener noreferrer"><b>Hot Take Arena</b></a></td>
@@ -108,7 +108,7 @@ Check out my work at <a href="https://akshad-work.vercel.app/" target="_blank" r
 
 ### Currently Building
 
-Shipping products at startup speed — full-stack, end-to-end, every day.
+Shipping products at startup speed, full-stack, end-to-end, every day.
 Exploring AI-native product patterns: multi-agent workflows, context-aware UIs, and tools that genuinely reduce friction.
 
 ---
@@ -129,7 +129,7 @@ Exploring AI-native product patterns: multi-agent workflows, context-aware UIs, 
 
 ### Fun Facts
 
-I ship side projects the way some people journal — regularly and honestly
+I ship side projects the way some people journal regularly and honestly
 
 My tab count is a feature, not a bug
 
@@ -143,7 +143,7 @@ Currently obsessed with making AI feel less like a tool and more like a teammate
 
 ### Daily Toolkit
 
-Beyond the stack — the tools that actually run my workflow:
+Beyond the stack, the tools that actually run my workflow:
 
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=anthropic&logoColor=white)
@@ -159,8 +159,8 @@ Beyond the stack — the tools that actually run my workflow:
 
 ### What I'm up to
 
-Builder who talks less and ships fast — MVPs, prototypes, and production releases on a steady cadence.
-I care about structure, modularity, and clear docs so teams move quickly.
+Builder who talks less and ships fast MVPs, prototypes, and production releases on a steady cadence.
+I care about structure, modularity and clear docs so teams move quickly.
 Currently experimenting with Claude, Cursor, and Windsurf while keeping fundamentals sharp.
 
 ---
