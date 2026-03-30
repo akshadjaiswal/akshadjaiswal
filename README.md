@@ -55,7 +55,7 @@ Check out my work at <a href="https://akshad-work.vercel.app/" target="_blank" r
   </tr>
   <tr>
     <td><a href="https://github.com/akshadjaiswal/glide-data-grid" target="_blank" rel="noopener noreferrer"><b>Glide Data Grid Starter</b></a></td>
-    <td>Brownfield-friendly sandbox for Glide Data Grid with grouped headers, frozen columns, and custom cells.</td>
+    <td>Brownfield and well as green field friendly sandbox for Glide Data Grid with grouped headers, frozen columns , custom cells and multiple virtualized sorting.</td>
   </tr>
   <tr>
     <td><a href="https://github.com/akshadjaiswal/explain-like-i-m-5" target="_blank" rel="noopener noreferrer"><b>Explain Like I'm 5</b></a></td>
