@@ -26,7 +26,7 @@ Check out my work at <a href="https://akshad-work.vercel.app/" target="_blank" r
 
 ### Stack
 
-`TypeScript` `JavaScript` `Next.js` `React` `Python` `FastAPI` `Node.js` `PostgreSQL` `MongoDB` `Supabase` `crew ai` `langchain` `postgress` `llm models`
+`TypeScript` `JavaScript` `Next.js` `React` `Python` `FastAPI` `Node.js` `PostgreSQL` `MongoDB` `Supabase` `crew ai` `langchain` `postgress` `llm models` `golang`
 
 ---
 
