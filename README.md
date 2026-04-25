@@ -94,6 +94,10 @@ Check out my work at <a href="https://akshad-work.vercel.app/" target="_blank" r
     <td><a href="https://github.com/akshadjaiswal/Namaste-Nodejs" target="_blank" rel="noopener noreferrer"><b>Nodejs Journey</b></a></td>
     <td>From scratch to advanced Node.js, following Namaste Node.js with hands-on notes.</td>
   </tr>
+   <tr>
+    <td><a href="https://github.com/akshadjaiswal/go-backend-production" target="_blank" rel="noopener noreferrer"><b>GO Lang Backend</b></a></td>
+    <td>A step-by-step Go backend built for production, covering routing, auth, databases, logging, testing, and deployment.</td>
+  </tr>
   <tr>
     <td><a href="https://github.com/akshadjaiswal/Namaste-React" target="_blank" rel="noopener noreferrer"><b>React Journey</b></a></td>
     <td>Assignments and notes from Namaste React Live to solidify core React patterns.</td>
