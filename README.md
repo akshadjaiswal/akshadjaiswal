@@ -13,22 +13,16 @@
   <a href="mailto:akshadsantoshjaiswal@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
----
-
 ### About
 
-Full-stack engineer who enjoys working end-to-end product discovery, fast prototypes, scalable backends, and polished UX.
+Full-stack engineer who enjoys working end-to-end: product discovery, fast prototypes, scalable backends, and polished UX.
 Founding SDE at a startup while freelancing, so I juggle delivery speed, reliability, and cost every day.
 I keep things simple: ship small, learn fast, and iterate with real feedback.
 Check out my work at <a href="https://akshad-work.vercel.app/" target="_blank" rel="noopener noreferrer">akshad-work.vercel.app</a>
 
----
-
 ### Stack
 
-`TypeScript` `JavaScript` `Next.js` `React` `Python` `FastAPI` `Node.js` `PostgreSQL` `MongoDB` `Supabase` `crew ai` `langchain` `postgress` `llm models` `golang`
-
----
+`TypeScript` `JavaScript` `Next.js` `React` `Python` `FastAPI` `Node.js` `PostgreSQL` `MongoDB` `Supabase` `CrewAI` `LangChain` `LLMs` `Go`
 
 ### Fresh Builds
 
@@ -39,7 +33,7 @@ Check out my work at <a href="https://akshad-work.vercel.app/" target="_blank" r
   </tr>
   <tr>
     <td><a href="https://github.com/akshadjaiswal/git-history-visualizer" target="_blank" rel="noopener noreferrer"><b>Git History Visualizer</b></a></td>
-    <td>Transforms GitHub repos into beautiful dashboards commit patterns, contributor activity, and repo metrics.</td>
+    <td>Transforms GitHub repos into beautiful dashboards with commit patterns, contributor activity, and repo metrics.</td>
   </tr>
   <tr>
     <td><a href="https://github.com/akshadjaiswal/remind-well" target="_blank" rel="noopener noreferrer"><b>Remind Well</b></a></td>
@@ -51,11 +45,11 @@ Check out my work at <a href="https://akshad-work.vercel.app/" target="_blank" r
   </tr>
   <tr>
     <td><a href="https://github.com/akshadjaiswal/excuse-generator-pro" target="_blank" rel="noopener noreferrer"><b>Excuse Generator Pro</b></a></td>
-    <td>Context-aware AI excuse creator. Tweak tone and scenario, believable, playful or absurd.</td>
+    <td>Context-aware AI excuse creator. Tweak tone and scenario: believable, playful, or absurd.</td>
   </tr>
   <tr>
     <td><a href="https://github.com/akshadjaiswal/glide-data-grid" target="_blank" rel="noopener noreferrer"><b>Glide Data Grid Starter</b></a></td>
-    <td>Brownfield and well as green field friendly sandbox for Glide Data Grid with grouped headers, frozen columns , custom cells and multiple virtualized sorting.</td>
+    <td>Sandbox for Glide Data Grid with grouped headers, frozen columns, custom cells, and virtualized sorting.</td>
   </tr>
   <tr>
     <td><a href="https://github.com/akshadjaiswal/explain-like-i-m-5" target="_blank" rel="noopener noreferrer"><b>Explain Like I'm 5</b></a></td>
@@ -67,7 +61,7 @@ Check out my work at <a href="https://akshad-work.vercel.app/" target="_blank" r
   </tr>
   <tr>
     <td><a href="https://github.com/akshadjaiswal/side-quest-hq" target="_blank" rel="noopener noreferrer"><b>Side Quest HQ</b></a></td>
-    <td>Catalog every side project — active, paused, shipped, or abandoned and see your creative trail.</td>
+    <td>Catalog every side project (active, paused, shipped, or abandoned) and see your creative trail.</td>
   </tr>
   <tr>
     <td><a href="https://github.com/akshadjaiswal/hot-takes-arena" target="_blank" rel="noopener noreferrer"><b>Hot Take Arena</b></a></td>
@@ -81,8 +75,6 @@ Check out my work at <a href="https://akshad-work.vercel.app/" target="_blank" r
 
 <p><em>More useful projects live in the repos tab. Feel free to explore.</em></p>
 
----
-
 ### Learning Repos
 
 <table>
@@ -94,7 +86,7 @@ Check out my work at <a href="https://akshad-work.vercel.app/" target="_blank" r
     <td><a href="https://github.com/akshadjaiswal/Namaste-Nodejs" target="_blank" rel="noopener noreferrer"><b>Nodejs Journey</b></a></td>
     <td>From scratch to advanced Node.js, following Namaste Node.js with hands-on notes.</td>
   </tr>
-   <tr>
+  <tr>
     <td><a href="https://github.com/akshadjaiswal/go-backend-production" target="_blank" rel="noopener noreferrer"><b>GO Lang Backend</b></a></td>
     <td>A step-by-step Go backend built for production, covering routing, auth, databases, logging, testing, and deployment.</td>
   </tr>
@@ -107,67 +99,6 @@ Check out my work at <a href="https://akshad-work.vercel.app/" target="_blank" r
     <td>Quick reference for core JavaScript concepts when you need them fast.</td>
   </tr>
 </table>
-
----
-
-### Currently Building
-
-Shipping products at startup speed, full-stack, end-to-end, every day.
-Exploring AI-native product patterns: multi-agent workflows, context-aware UIs, and tools that genuinely reduce friction.
-
----
-
-### How I Build
-
-**Ship, then iterate:** an imperfect MVP live beats a perfect idea on paper
-
-**Own the full stack:** product thinking, backend, frontend, infra; no handoff gaps
-
-**AI as co-pilot:** Claude, Cursor, and Windsurf are in every workflow now
-
-**Build in public:** side projects teach faster than tutorials
-
-**Simple > clever:** readable code wins in the long run
-
----
-
-### Fun Facts
-
-I ship side projects the way some people journal regularly and honestly
-
-My tab count is a feature, not a bug
-
-I've debugged more things at 2am than I'd like to admit
-
-Strong opinion: good DX is a product feature, not a nice-to-have
-
-Currently obsessed with making AI feel less like a tool and more like a teammate
-
----
-
-### Daily Toolkit
-
-Beyond the stack, the tools that actually run my workflow:
-
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=anthropic&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white)
-![Windsurf](https://img.shields.io/badge/Windsurf-0F172A?style=flat&logo=codeium&logoColor=white)
-![Kiro](https://img.shields.io/badge/Kiro-FF9900?style=flat&logo=amazon&logoColor=white)
-![Warp](https://img.shields.io/badge/Warp-01A4FF?style=flat&logo=warp&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
-![Linear](https://img.shields.io/badge/Linear-5E6AD2?style=flat&logo=linear&logoColor=white)
-
----
-
-### What I'm up to
-
-Builder who talks less and ships fast MVPs, prototypes, and production releases on a steady cadence.
-I care about structure, modularity and clear docs so teams move quickly.
-Currently experimenting with Claude, Cursor, and Windsurf while keeping fundamentals sharp.
-
----
 
 <p align="center"><strong>Always happy to help or pair. Drop me a mail or DM anytime.</strong></p>
 
