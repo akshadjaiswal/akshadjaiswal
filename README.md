@@ -1,16 +1,12 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Akshad%20Jaiswal&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Founding%20SDE%20%C2%B7%20Freelancer%20%C2%B7%20Daily%20Shipper&descAlignY=58&descSize=18" width="100%"/>
+<h1 align="center">Akshad Jaiswal</h1>
+
+<p align="center">Founding SDE · Full-Stack · AI Builder · I ship meaningful things, daily.</p>
 
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=C840B0&center=true&vCenter=true&width=600&lines=Full-Stack+Engineer;Founding+SDE+%40+Startup;AI+%2B+Product+Builder;I+ship+meaningful+things+%E2%80%94+fast." alt="Typing SVG"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://x.com/akshad_999" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="X"/></a>
-  <a href="https://www.linkedin.com/in/akshadsantoshjaiswal/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/akshadjaiswal" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="mailto:akshadsantoshjaiswal@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://x.com/akshad_999">X</a> ·
+  <a href="https://www.linkedin.com/in/akshadsantoshjaiswal/">LinkedIn</a> ·
+  <a href="https://github.com/akshadjaiswal">GitHub</a> ·
+  <a href="mailto:akshadsantoshjaiswal@gmail.com">Email</a>
 </p>
 
 ### About
@@ -101,5 +97,3 @@ Check out my work at <a href="https://akshad-work.vercel.app/" target="_blank" r
 </table>
 
 <p align="center"><strong>Always happy to help or pair. Drop me a mail or DM anytime.</strong></p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer" width="100%"/>
