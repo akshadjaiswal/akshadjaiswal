@@ -27,6 +27,10 @@ Check out my work at <a href="https://akshad-work.vercel.app/" target="_blank" r
     <th>Project</th>
     <th>What it does</th>
   </tr>
+   <tr>
+    <td><a href="https://github.com/akshadjaiswal/freebase" target="_blank" rel="noopener noreferrer"><b>Freebase</b></a></td>
+    <td>Open source alternative to Featurebase : feedback boards, changelog, roadmap & embeddable widget.</td>
+  </tr>
   <tr>
     <td><a href="https://github.com/akshadjaiswal/git-history-visualizer" target="_blank" rel="noopener noreferrer"><b>Git History Visualizer</b></a></td>
     <td>Transforms GitHub repos into beautiful dashboards with commit patterns, contributor activity, and repo metrics.</td>
