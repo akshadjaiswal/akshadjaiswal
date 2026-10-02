@@ -11,9 +11,9 @@
 
 ### About
 
-Full-stack engineer who enjoys working end-to-end: product discovery, fast prototypes, scalable backends, and polished UX.
-Founding SDE at a startup while freelancing, so I juggle delivery speed, reliability, and cost every day.
-I keep things simple: ship small, learn fast, and iterate with real feedback.
+Full-stack engineer who enjoys working end-to-end: product discovery, fast prototypes, scalable backends, and polished UX.<br>
+Founding SDE at a startup while freelancing, so I juggle delivery speed, reliability, and cost every day.<br>
+I keep things simple: ship small, learn fast, and iterate with real feedback.<br>
 Check out my work at <a href="https://akshad-work.vercel.app/" target="_blank" rel="noopener noreferrer">akshad-work.vercel.app</a>
 
 ### Stack
@@ -27,7 +27,7 @@ Check out my work at <a href="https://akshad-work.vercel.app/" target="_blank" r
     <th>Project</th>
     <th>What it does</th>
   </tr>
-   <tr>
+  <tr>
     <td><a href="https://github.com/akshadjaiswal/freebase" target="_blank" rel="noopener noreferrer"><b>Freebase</b></a></td>
     <td>Open source alternative to Featurebase : feedback boards, changelog, roadmap & embeddable widget.</td>
   </tr>
